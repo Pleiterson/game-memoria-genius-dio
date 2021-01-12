@@ -18,15 +18,15 @@
 <!--About session-->
 <h1 align="center">Criando seu jogo de memória estilo Genius<br>Digital Innovation One</h1>
 
-<!-- <img src="./src/assets/badge.png" title="Badge" width="70" height="70"> -->
+<img src="./src/assets/badge.png" title="Badge" width="70" height="70">
 
 Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
-<!-- - [Projeto desenvolvido](https://game-resgate.vercel.app/) -->
+- [Projeto desenvolvido](https://game-resgate.vercel.app/)
 
-<!-- <p align="center"><img src="./src/assets/projeto.gif" title="Jogo de Naves - DIO"></p> -->
+<p align="center"><img src="./src/assets/projeto.gif" title="Jogo de Naves - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
